@@ -1,8 +1,16 @@
+
+
+
+
 git status # untuk cek status git pada folder
 git init # untuk inisialisasi git pada folder 
 git status # untuk cek status untracked pada git repository
 git add #untuk menambahkan file ke git
 git add -A  atau git add --all  #menambahkan semua file ke git repository
+git commit -m"Pesan yang ingin dimasukkan" #untuk simpan perubahan dan menambahkan komentar
+git log #untuk melihat sejarah perubahan pada program
+
+
 
 
 
