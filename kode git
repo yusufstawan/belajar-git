@@ -1,7 +1,9 @@
+PART 1
 
 
 
 
+PART 2
 git status # untuk cek status git pada folder
 git init # untuk inisialisasi git pada folder 
 git status # untuk cek status untracked pada git repository
@@ -9,6 +11,21 @@ git add #untuk menambahkan file ke git
 git add -A  atau git add --all  #menambahkan semua file ke git repository
 git commit -m"Pesan yang ingin dimasukkan" #untuk simpan perubahan dan menambahkan komentar
 git log #untuk melihat sejarah perubahan pada program
+git commit -am "Pesan" #hanya mencatat yang dirubah(modified) tapi tidak menyimpan file yang baru (recomended git commit -A)
+git diff #untuk melihat perubahan ada yang dilakukan user 
+.gitignore #untuk membuat file tidak perlu dimunculkan saat cek status git (git tidak peduli)
+
+PART 3 Menggunakan Branch (Cabang) di GIT
+https://www.youtube.com/watch?v=wm2C8R_3lnU&list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-&index=5
+
+
+
+
+
+
+
+
+
 
 
 
